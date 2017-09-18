@@ -8,9 +8,10 @@ In this assignment we want you to implement a simple web application that calcul
 Prerequisities
 ------------------
 
-- Create an SPA application with AngularJS as frontend and .NET or PHP WebAPI as backend (No database is required in this assignment)
+- Create an SPA application with Angular4 as frontend and .NET core or NodeJs as backend (No database is required in this assignment)
 - Styling should be done in a pre-processor such as less, sass or stylus
-- Browser support should be the newest version of Chrome, FF, Safari and also IE10 and IE11.
+- Browser support should be the newest version of Chrome, FF, Safari
+- Extra task. Use Docker for backend
 
 **Structure**
 
