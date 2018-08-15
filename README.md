@@ -8,7 +8,7 @@ In this assignment we want you to implement a simple web application that calcul
 Prerequisities
 ------------------
 
-- Create an SPA application with Angular4
+- Create an SPA application with Angular5
 - Styling should be done in a pre-processor such as less, sass or stylus
 - Browser support should be the newest version of Chrome, FF, Safari
 
